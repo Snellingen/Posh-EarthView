@@ -1,4 +1,4 @@
-command = "powershell.exe -nologo -command C:\Users\matia\Git\PoshEarthView\PoshEarthView.ps1"
+command = "powershell.exe -nologo -command <PATH_TO_SCRIPT>\PoshEarthView.ps1"
 
 set shell = CreateObject("WScript.Shell")
 
